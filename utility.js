@@ -10,3 +10,6 @@ function name (){
 }
 
 name();
+
+
+const abc="hello abc"
