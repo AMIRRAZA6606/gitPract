@@ -5,8 +5,8 @@ const age =25;
 
 const new1 = "hello "
 
-
-
-function name(params) {
+function name (){
     console.log("name")
 }
+
+name();
